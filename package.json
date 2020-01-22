@@ -1,7 +1,7 @@
 {
-  "name": "webpack-bootstrap",
-  "version": "1.0.2",
-  "description": "Webpack Bootstrap 4 app template",
+  "name": "tob2",
+  "version": "1.0.0",
+  "description": "A Bootstrap based Theme for Tobias Gruben.",
   "scripts": {
     "build": "webpack --mode=development --progress --hide-modules",
     "production": "webpack --mode=production --progress --hide-modules --devtool=source-maps",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/manchenkoff/webpack-bootstrap.git"
+    "url": "git@git.prontonet.eu:pab/tob2.git"
   },
   "keywords": [
     "webpack",
